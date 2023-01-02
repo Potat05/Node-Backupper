@@ -1,0 +1,33 @@
+// 
+// Syntax:
+// 
+// INCLUDE path
+// ^ Include a folder or file. (Recursive)
+// 
+// EXCLUDE path
+// ^ Exclude a folder or file.
+// 
+// DEFINE <name> replace
+// ^ Define.
+// 
+// Anything else will be skipped.
+// 
+
+
+
+DEFINE <user> Username
+
+
+
+// Stuffs
+INCLUDE C:\Users\<user>\Pictures
+INCLUDE C:\Users\<user>\Videos
+INCLUDE C:\Users\<user>\Music
+INCLUDE C:\Users\<user>\Favorites
+INCLUDE C:\Users\<user>\Links
+INCLUDE C:\Users\<user>\Saved Games
+INCLUDE C:\Users\<user>\Searches
+INCLUDE C:\Users\<user>\3D Objects
+INCLUDE C:\Users\<user>\Contacts
+
+

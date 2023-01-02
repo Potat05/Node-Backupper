@@ -1,0 +1,11 @@
+{
+    "name": "node-backupper",
+    "version": "1.0.0",
+    "description": "Backup files & folders.",
+    "main": "backupper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Potat05",
+    "license": "MIT"
+}
